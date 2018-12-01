@@ -2,6 +2,9 @@
 #
 #                                                       Space Game
 #-----------------------------------------------------------------------------------------------------------------------
+# THIS IS AN INCOMPLETE VERSION OF THE GAME. PLEASE CHECK THE MASTER BRANCH AT https://github.com/lemo-p/space-game 
+# FOR AN UPDATED VERSION
+#-----------------------------------------------------------------------------------------------------------------------
 
 import pygame
 import random
